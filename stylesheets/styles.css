@@ -313,6 +313,9 @@ a.buttons:hover {
 	text-decoration: none;
 }
 
+a.twitter: {
+    background: url(../images/twitter-logo-white.png) no-repeat 1px;
+}
 
 /* Section - for main page content */
 
